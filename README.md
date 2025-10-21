@@ -9,8 +9,8 @@ Se subieron varios archivos de acuerdo a las pruebas realizadas
 Asegúrate de tener Python 3.11 instalado.
 
 1. Clonar el Repositorio
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_DIRECTORIO>
+git clone <git@github.com:marlinis/facedetection.git>
+cd <facedetection>
 
 2. Configurar Entorno Virtual
 
