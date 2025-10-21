@@ -10,9 +10,10 @@ Asegúrate de tener Python 3.11 instalado.
 
 1. Clonar el Repositorio
 git clone <git@github.com:marlinis/facedetection.git>
+
 cd <facedetection>
 
-2. Configurar Entorno Virtual
+3. Configurar Entorno Virtual
 
 python -m venv venv
 # Activar en Linux/macOS
